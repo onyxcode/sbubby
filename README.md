@@ -1,2 +1,2 @@
 # sbubby
-Dump repository for sbubby
+Dump repository for sbubbies
